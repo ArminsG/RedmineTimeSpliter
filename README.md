@@ -4,5 +4,5 @@ This python code is written as a project to split spent time in project between 
 
 This code is directed to demo.redmineup.com
 
-Token is accessible in right upper coner from My Account -> API access key -> Show
+Token is accessible in right upper corner from My Account -> API access key -> Show
 
